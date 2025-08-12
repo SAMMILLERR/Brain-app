@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import './theme.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom utilities */
+@layer utilities {
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+  }
+  
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+  }
+}
+
+/* Brain App specific styles */
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    background: #fdfcfa;
+    background-image: radial-gradient(circle at 20% 50%, rgba(139, 116, 165, 0.03) 0%, transparent 50%),
+                      radial-gradient(circle at 80% 20%, rgba(244, 164, 156, 0.03) 0%, transparent 50%),
+                      radial-gradient(circle at 40% 80%, rgba(194, 153, 209, 0.03) 0%, transparent 50%);
+    color: #2d2a33;
+  }
+  
+  .dark body {
+    background: #1a1720;
+    background-image: radial-gradient(circle at 20% 50%, rgba(139, 116, 165, 0.05) 0%, transparent 50%),
+                      radial-gradient(circle at 80% 20%, rgba(244, 164, 156, 0.05) 0%, transparent 50%),
+                      radial-gradient(circle at 40% 80%, rgba(194, 153, 209, 0.05) 0%, transparent 50%);
+    color: #f0eef2;
+  }
+}
