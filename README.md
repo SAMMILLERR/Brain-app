@@ -9,14 +9,14 @@ Experience a stunning dark/light mode interface with neural network-inspired des
 
 **Screenshot:**
 <!-- Add screenshot of the main interface here -->
-![Main Interface](screenshots/main-interface.png)
 
 ### 🔐 Secure Authentication
 Clean, brain-themed login and signup experience with JWT-based authentication for secure access to your personal knowledge vault.
 
 **Screenshot:**
 <!-- Add screenshot of login page here -->
-![Authentication](screenshots/auth-page.png)
+<img width="1915" height="903" alt="image" src="https://github.com/user-attachments/assets/e1d058fc-bd97-4e41-a370-0a28c26a6b37" />
+
 
 ### 📝 Content Management
 Easily add, edit, and organize different types of content:
@@ -27,7 +27,8 @@ Easily add, edit, and organize different types of content:
 
 **Screenshot:**
 <!-- Add screenshot of content creation form here -->
-![Content Creation](screenshots/content-creation.png)
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/fc0e64dc-0584-430c-a0e2-e053c6b2df0a" />
+
 
 ### 🏷️ Smart Tagging System
 Organize your brain drops with an intelligent tagging system that suggests existing tags and helps you categorize your knowledge.
@@ -41,28 +42,31 @@ Filter and browse your content by type with beautiful category icons and intuiti
 
 **Screenshot:**
 <!-- Add screenshot of content filtering here -->
-![Content Filtering](screenshots/content-filtering.png)
+<img width="1558" height="187" alt="image" src="https://github.com/user-attachments/assets/65f76ede-f9c6-47a6-8836-26aae26df334" />
+
 
 ### 🌐 Brain Sharing
 Share your knowledge with others through secure shareable links. Let others explore your curated thoughts and discoveries.
 
 **Screenshot:**
 <!-- Add screenshot of brain sharing feature here -->
-![Brain Sharing](screenshots/brain-sharing.png)
+<img width="1513" height="256" alt="image" src="https://github.com/user-attachments/assets/c41b3897-5a45-46fa-8153-3175dd522d09" />
+
 
 ### 🌓 Theme Toggle
 Seamlessly switch between light and dark modes with your preference automatically saved.
 
 **Screenshot:**
 <!-- Add screenshot showing light/dark mode comparison here -->
-![Theme Toggle](screenshots/theme-toggle.png)
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/e58af14b-2311-436f-9441-d646c201791b" />
 
-### 📱 Responsive Design
-Fully responsive design that works beautifully on desktop, tablet, and mobile devices.
+
+
 
 **Screenshot:**
 <!-- Add screenshot of mobile interface here -->
-![Mobile Interface](screenshots/mobile-interface.png)
+<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/72fec630-6aad-4f45-9dc7-e26c36e25dd5" />
+
 
 ## 🎥 Walkthrough Video
 
