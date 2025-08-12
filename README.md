@@ -204,7 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions, suggestions, or support:
-- **Email**: your-email@example.com
 - **GitHub**: [@yourusername](https://github.com/yourusername)
 
 ---
