@@ -75,6 +75,7 @@ Get a complete overview of all features and how to use the Brain App:
 <!-- Brain App Walkthrough Video -->
 [![Brain App Walkthrough](https://cdn.loom.com/sessions/thumbnails/ab81d25c932140789d2c9c764b5260e1-with-play.gif)](https://www.loom.com/share/ab81d25c932140789d2c9c764b5260e1)
 
+
 *Click the image above to watch the full walkthrough video*
 
 ## 🚀 Quick Start
